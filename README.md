@@ -9,7 +9,7 @@ WCS Employee Portal Sign in Documentation
 
 Additionaly:
 > **As an** IT Administrator that manages Employee Accounts,
-> **I want** the Employee Portal to be secured and accessed using existing Work Account credentials **so that** I can manage access and support users, while maintaining data security and access control.
+> **I want** the Employee Portal to use our existing Work Account credentials **so that** I can manage access and support users, while maintaining data security and access control.
 
 ### Acceptance Criteria
 
@@ -21,12 +21,10 @@ Additionaly:
 6. Email and Password fields should be in a Sign-In node that is left-center on the page, with a white background. WCS Logo should be center-top of this node
 7. Login button should be White text with a SlateBlue background color, bottom-right of the Sign-In Node
 
-Please also consider:
+Please also consider (Additional Acceptance Criteria for IT Administrator):
 1. More than 3 consecutive failed attempts for an Email should lock the account and notify the Administrator. 
-2. An Administrator can create accounts for new Employees and can trigger a reset of my password.
+2. An Administrator can create accounts for new Employees and can trigger a password reset.
 3. Synchronise credentials with an existing database (e.g. WCS.com Email, ActiveDirectory, or other SSO)
-
-##Potential Administrator User Story
 
 ### Resources:
 * [WCS Media Kit](https://www.wcstexas.com/media-kit/)
