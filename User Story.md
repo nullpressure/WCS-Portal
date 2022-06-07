@@ -11,7 +11,7 @@ WCS Employee Portal Sign in Documentation
 ### Acceptance Criteria
 
 1. Input for Email must follow format "username@WCS.com" (i.e. regex `\S+@WCS.com$`). Thus, if input for Email does not follow this format, an error is displayed.
-2. Invalid credentials of the right format should throw a generic error, but it must not specify if username or password is wrong.
+2. Invalid credentials of the right format should throw a generic error, but the error must not specify if username or password is wrong.
 3. User Input for Password Entry Field must be obfuscated.
 4. [Page Background](https://www.wcstexas.com/wp-content/uploads/2020/11/Locomotive-and-Cask-1-scaled.jpg) from Media Kit
 5. [WCS Logo](https://www.wcstexas.com/wp-content/uploads/2020/09/Waste-Control-Specialists-logo.png) from Media Kit
