@@ -8,7 +8,7 @@ WCS Employee Portal Sign in Documentation
 > **I want** to Log-In on the Sign In page with my Work Email and Password  **so that** I can access the Employee Portal.
 
 Additionaly:
-> **As an** Administrator of employee accounts,
+> **As an** IT Administrator that manages Employee Accounts,
 > **I want** the Employee Portal to be secured and accessed using existing Work Account credentials **so that** I can manage access and support users, while maintaining data security and access control.
 
 ### Acceptance Criteria
