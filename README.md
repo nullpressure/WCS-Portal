@@ -18,8 +18,9 @@ Additionally:
 3. User Input for Password Entry Field must be obfuscated.
 4. [Page Background](https://www.wcstexas.com/wp-content/uploads/2020/11/Locomotive-and-Cask-1-scaled.jpg) from Media Kit
 5. [WCS Logo](https://www.wcstexas.com/wp-content/uploads/2020/09/Waste-Control-Specialists-logo.png) from Media Kit
-6. Email and Password fields should be in a Sign-In node that is left-center on the page, with a white background. WCS Logo should be center-top of this node
-7. Login button should be White text with a SlateBlue background color, bottom-right of the Sign-In Node
+6. Email and Password fields nested in a Sign-In node that is left-center on the page, with a white background. 
+7. WCS Logo centered above the credential fields in the Sign-In node.
+8. Login button should be formatted with a SlateBlue background color & White Text, anchored in the bottom-right of the Sign-In Node below the credential fields
 
 Please also consider (Additional Acceptance Criteria for IT Administrator):
 1. More than 3 consecutive failed attempts for an Email should lock the account and notify the Administrator. 
