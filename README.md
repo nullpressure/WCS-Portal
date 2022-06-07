@@ -7,6 +7,9 @@ WCS Employee Portal Sign in Documentation
 > **As a** WCS Employee,
 > **I want** to Log-In on the Sign In page with my Work Email and Password  **so that** I can access the Employee Portal.
 
+Additionaly:
+> **As an** Administrator of employee accounts,
+> **I want** the Employee Portal to be secured and accessed using existing Work Account credentials **so that** I can manage access and support users, while maintaining data security and access control.
 
 ### Acceptance Criteria
 
@@ -22,6 +25,8 @@ Please also consider:
 1. More than 3 consecutive failed attempts for an Email should lock the account and notify the Administrator. 
 2. An Administrator can create accounts for new Employees and can trigger a reset of my password.
 3. Synchronise credentials with an existing database (e.g. WCS.com Email, ActiveDirectory, or other SSO)
+
+##Potential Administrator User Story
 
 ### Resources:
 * [WCS Media Kit](https://www.wcstexas.com/media-kit/)
