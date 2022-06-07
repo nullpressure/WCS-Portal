@@ -5,7 +5,7 @@ WCS Employee Portal Sign in Documentation
 ## User Story
 
 > **As a** WCS Employee,
-> **I want** to Log-In with my Email and Password  **so that** I can access the Employee Portal.
+> **I want** to Log-In on the Sign In page with my Work Email and Password  **so that** I can access the Employee Portal.
 
 
 ### Acceptance Criteria
