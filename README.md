@@ -24,7 +24,7 @@ Additionally:
 Please also consider (Additional Acceptance Criteria for IT Administrator):
 1. More than 3 consecutive failed attempts for an Email should lock the account and notify the Administrator. 
 2. An Administrator can create accounts for new Employees and can trigger a password reset.
-3. Synchronise credentials with an existing database (e.g. WCS.com Email, ActiveDirectory, or other SSO)
+3. Synchronize credentials with an existing database (e.g. WCS.com Email, ActiveDirectory, or other SSO)
 
 ### Resources:
 * [WCS Media Kit](https://www.wcstexas.com/media-kit/)
